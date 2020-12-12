@@ -1,2 +1,14 @@
 # Ignore .idea files
 .idea/
+ff-blog-post/node_modules
+ff-blog-post/public/hot
+ff-blog-post/public/storage
+ff-blog-post/storage/*.key
+ff-blog-post/vendor
+ff-blog-post/.env
+ff-blog-post/.env.backup
+ff-blog-post/.phpunit.result.cache
+ff-blog-post/Homestead.json
+ff-blog-post/Homestead.yaml
+ff-blog-post/npm-debug.log
+ff-blog-post/yarn-error.log
